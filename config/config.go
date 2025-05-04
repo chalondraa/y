@@ -1,6 +1,7 @@
 package config
 
 var (
-	TelegramToken = "YOUR_TELEGRAM_BOT_TOKEN"
-	DalleAPIKey   = "YOUR_DALLE_API_KEY"
+	TelegramToken = "ISI_TOKEN_BOT_TELEGRAM_KAMU"
+	DalleAPIKey   = "ISI_APIKEY_OPENAI_KAMU"
+	OpenAIApiKey  = "ISI_APIKEY_OPENAI_GPT_KAMU"
 )
